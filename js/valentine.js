@@ -1,10 +1,10 @@
 // List of text values to rotate through
 // List of 100 unique variations of "Yes"
 const buttonTexts = [
-  'Absolutely!',
-  'For Sure!',
-  'Yes Please!',
-  'Definitely!',
+  'Absolutely my handsome!',
+  'For Sure my love!',
+  'Yes Please John!',
+  'Definitely pookie!',
   'You Bet!',
   'Affirmative!',
   'Totally!',
