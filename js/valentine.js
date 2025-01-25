@@ -82,7 +82,7 @@ const buttonTexts = [
 ];
 
 const gifArray = [
-  '1.gif',
+  'dog.gif',
   '2.gif',
   '3.gif',
   '4.gif',
